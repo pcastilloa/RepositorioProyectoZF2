@@ -1,5 +1,7 @@
 object myObject {
   def main(args: Array[String]): Unit = {
   	println("Hola Mundo")
+	println("Hola Mundo - Pedro")
+	println("Hola Mundo - Diego")
   }
 }
